@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <conio.h>  //getch()
 #include <stdlib.h> //system()
@@ -115,4 +114,3 @@ int checkForWin()
     else
         return -1;
 }
-
